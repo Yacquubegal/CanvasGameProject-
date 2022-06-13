@@ -48,7 +48,7 @@ function setup() {
 	//my sounds in objects in an array..
 	sounds[0] = new sound("music/Intro.mp3");
 	sounds[1] = new sound("music/KATY.mp3");
-	sounds[2] = new sound("music/AWW.mp3");
+	sounds[2] = new sound("music/AUUGHHH.mp3");
 	sounds[3] = new sound("music/BADUM.mp3");
 	sounds[4] = new sound("music/SLIDE.mp3");
 	sounds[5] = new sound("music/FAIL.mp3");
